@@ -1,2 +1,2 @@
 # car-price-api
-aapi para apreddecir el precio de carros 
+api para modelo de machine learning de predicción de precio de autos
